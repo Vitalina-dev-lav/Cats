@@ -45,7 +45,7 @@ class Cat {
             hungry = false;
     }
 }
-public class Main {
+public class Cats {
     public static
     void main(String[] args) {
         Cat[] cats = {new Cat("Vasil", 50), new Cat("Pushok", 50), new Cat("Snezhok", 25), new Cat("Kuzma", 5), new Cat("Kote", 1)};
